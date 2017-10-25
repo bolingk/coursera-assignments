@@ -1,0 +1,31 @@
+/* HEADER */
+.navbar-nav li {
+	background-color: #F9EBEA;
+}
+/* END HEADER */
+
+/* BODY */
+.row {
+	padding: 0 15px 0 15px;
+	margin-bottom: 15px;
+}
+section {
+	padding: 0 15px 15px 15px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+#section1 {
+	background-color: #DC7633;
+}
+#section2 {
+	background-color: #7DCEA0;
+}
+#section3 {
+	background-color: #F7DC6F;
+}
+h3 {
+	padding-top: 15px;
+}
+/* END BODY */
+
+/* FOOTER */
